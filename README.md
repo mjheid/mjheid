@@ -1,4 +1,6 @@
-#Markus Heidrich
+# Markus Heidrich
+
+Master Student at Lund University in Bioinformatics.
 
 <!---
 mjheid/mjheid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
