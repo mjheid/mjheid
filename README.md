@@ -1,6 +1,6 @@
 # Markus Heidrich
 
-Master Student at Lund University in Bioinformatics.
+PhD at Lund Immunotechnology.
 
 I am interested in machine learning and its application in genetics.
 <!---
